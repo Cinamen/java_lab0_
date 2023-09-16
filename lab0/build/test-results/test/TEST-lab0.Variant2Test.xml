@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="lab0.Variant2Test" tests="1" skipped="0" failures="0" errors="0" timestamp="2023-09-09T12:42:35" hostname="FEVER" time="0.011">
+  <properties/>
+  <testcase name="testError1" classname="lab0.Variant2Test" time="0.011"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
